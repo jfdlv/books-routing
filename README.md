@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# BOOKS ROUTING
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project created to test my understanding on how to implement routing on react from scratch and also on how to create components programmatically.
 
 ## Available Scripts
 
